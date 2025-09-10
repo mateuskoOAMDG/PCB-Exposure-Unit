@@ -45,7 +45,7 @@ Please refer to the files in the repository for complete hardware instructions.
 
 This project is licensed under the MIT License.  
 Copyright (c) 2025 Martin Janček  
-See the [LICENSE](./LICENSE.txt) file for details.
+See the [LICENSE](./license.txt) file for details.
 
 ### Third-Party Libraries
 
