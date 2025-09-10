@@ -8,6 +8,9 @@ It automates the exposure process by controlling UV lamps and timing the exposur
 
 The goal of the project is to provide a simple, reliable, and affordable solution for hobbyists and makers who want to build their own UV exposure box for PCB manufacturing.
 
+![PCB Exposure Unit](images/Exposure_Unit_Preview.jpg)
+![Assembled PCB](images/Assembled_PCB_Preview.jpg)
+
 ## Features
 
 - Control of UV lamps for PCB photoresist exposure  
